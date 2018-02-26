@@ -1,0 +1,13 @@
+body {
+	background-image: url("https://image.ibb.co/fJbDNc/background.png")
+}
+
+.jumbotron {
+	background: transparent;
+	color: lightgrey;
+}
+
+.row {
+	color: lightgrey;
+}
+
