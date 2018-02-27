@@ -49,18 +49,14 @@ $(document).ready(function() {
 		}
 	}
 
-	// debugging functionality function
+	
 	function consoleLogVariables() {
 		console.log("wins: " + wins + " losses: " + losses);
 		console.log("gemOneValue: ", gemOneValue + " gemTwoValue: " + gemTwoValue + " gemThreeValue: " + gemThreeValue + " gemFourValue: " + gemFourValue);
 		console.log("randomComputerNumber: " + randomComputerNumber + " userTallyScore: " + userTallyScore);
 		console.log("----------------------------------");
-
 	}
 
-	// =====================================
-	// Now comes the main game functionality
-	// =====================================
 
 	initializeVariables();
 
